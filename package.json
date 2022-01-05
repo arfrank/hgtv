@@ -1,0 +1,26 @@
+{
+  "name": "hgtv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "hgtv": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danreale/hgtv.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danreale/hgtv/issues"
+  },
+  "homepage": "https://github.com/danreale/hgtv#readme",
+  "devDependencies": {
+    "playwright": "^1.17.1"
+  },
+  "dependencies": {
+    "delay": "^5.0.0"
+  }
+}
